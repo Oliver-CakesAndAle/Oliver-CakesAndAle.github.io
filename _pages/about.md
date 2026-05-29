@@ -30,7 +30,7 @@ I am an incoming Ph.D. student at the [AI3 Institute](https://ai3.fudan.edu.cn/)
     <div class='paper-box-image'>
         <div>
             <div class="badge">SIGGRAPH Asia 2025</div>
-            <img src='https://bunnysocrazy.com/assets/img/BrepGPT.jpg' alt="sym" width="100%">
+            <img src='https://bunnysocrazy.com/assets/img/BrepGPT.jpg' alt="sym" width="300">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -45,7 +45,7 @@ Pu Li<sup>\*</sup>, **Wenhao Zhang**<sup>\*</sup>, Weize Quan, Biao Zhang, Peter
     <div class='paper-box-image'>
         <div>
             <div class="badge">SIGGRAPH 2025</div>
-            <img src='https://bunnysocrazy.com/assets/img/Stitch-A-Shape.jpg' alt="sym" width="100%">
+            <img src='https://bunnysocrazy.com/assets/img/Stitch-A-Shape.jpg' alt="sym" width="300">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -60,7 +60,7 @@ Pu Li<sup>\*</sup>, **Wenhao Zhang**<sup>\*</sup>, Jinglu Chen, Dong-Ming Yan
     <div class='paper-box-image'>
         <div>
             <div class="badge">AAAI 2025</div>
-            <img src='https://bunnysocrazy.com/assets/img/RECAD.jpg' alt="sym" width="100%">
+            <img src='https://bunnysocrazy.com/assets/img/RECAD.jpg' alt="sym" width="300">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
