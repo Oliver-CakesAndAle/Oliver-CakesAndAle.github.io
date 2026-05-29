@@ -40,6 +40,8 @@ I am an incoming Ph.D. student at the [AI3 Institute](https://ai3.fudan.edu.cn/)
 Pu Li<sup>\*</sup>, **Wenhao Zhang**<sup>\*</sup>, Weize Quan, Biao Zhang, Peter Wonka, Dong-Ming Yan
 
 [**paper**](https://arxiv.org/abs/2511.22171)&emsp; [**code**](https://github.com/BunnySoCrazy/BrepGPT)
+</div>
+</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -55,6 +57,8 @@ Pu Li<sup>\*</sup>, **Wenhao Zhang**<sup>\*</sup>, Weize Quan, Biao Zhang, Peter
 Pu Li<sup>\*</sup>, **Wenhao Zhang**<sup>\*</sup>, Jinglu Chen, Dong-Ming Yan
 
 [**paper**](https://dl.acm.org/doi/pdf/10.1145/3721238.3730661)&emsp;
+</div>
+</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -70,6 +74,8 @@ Pu Li<sup>\*</sup>, **Wenhao Zhang**<sup>\*</sup>, Jinglu Chen, Dong-Ming Yan
 Pu Li<sup>\*</sup>, **Wenhao Zhang**<sup>\*</sup>, Jianwei Guo, Jinglu Chen, Dong-Ming Yan
 
 [**paper**](https://www.arxiv.org/abs/2503.00928)&emsp; [**code**](https://github.com/BunnySoCrazy/RECAD)
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
